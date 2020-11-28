@@ -1,0 +1,6 @@
+applicationType: cli
+defaultPackage: com.example
+testFramework: spock
+sourceLanguage: kotlin
+buildTool: gradle
+features: [app-name, config4k, data, data-jpa, github-workflow-docker-registry, github-workflow-graal-docker-registry, graalvm, gradle, h2, hibernate-jpa, hibernate-validator, jackson-xml, jdbc-hikari, jib, kafka, kafka-streams, kotlin, kotlin-extension-functions, liquibase, logback, picocli, picocli-kotlin-application, picocli-spock, readme, spock, spring, spring-boot, spring-data-jpa, testcontainers]
